@@ -11,6 +11,10 @@ Activate the virtual env
 
 ```source env/bin/activate```
 
+Change directory to the IMS directory.
+
+```cd IMS```
+
 Install the required packages
 
 ```pip install -r requirements.txt```
